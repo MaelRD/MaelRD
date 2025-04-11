@@ -6,7 +6,7 @@
 
 ## 🚀 Tecnologías y herramientas que uso:
 
-[![My Skills](https://skillicons.dev/icons?i=python,react,ts,tailwind,html,css,git,postgresql,dotnet&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,python,react,ts,tailwind,html,css,git,postgresql,dotnet&theme=dark)](https://skillicons.dev)
 
 ## 📈 Algunos proyectos destacados:
 - [Mariam NailStudio & Shop (en progreso)](link-al-repo)

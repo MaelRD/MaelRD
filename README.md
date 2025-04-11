@@ -8,10 +8,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=linux,java,python,react,ts,tailwind,html,css,git,postgresql,dotnet&theme=dark)](https://skillicons.dev)
 
-## 📈 Algunos proyectos destacados:
-- [Mariam NailStudio & Shop (en progreso)](link-al-repo)
-- [Agenda de Citas en .NET MVC (en progreso)](link-al-repo)
-
 ## 📚 Actualmente aprendiendo:
 - Desarrollo Frontend (React + TSX)
 - Backend con .NET MVC

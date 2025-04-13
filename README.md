@@ -6,7 +6,7 @@
 
 ## 🚀 Tecnologías y herramientas que uso:
 
-[![My Skills](https://skillicons.dev/icons?i=linux,java,python,react,ts,tailwind,html,css,git,postgresql,dotnet&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,java,python,react,ts,tailwind,html,css,git,postgresql,mysql,dotnet&theme=dark)](https://skillicons.dev)
 
 ## 📚 Actualmente aprendiendo:
 - Desarrollo Frontend (React + TSX)

@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Mael
+# ¡Hola! 👋 Soy Mario Yael 
 
 🎓 Estudiante de Ingeniería en Informática  
 🧠 Apasionado por el desarrollo web y el aprendizaje constante.  

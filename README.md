@@ -2,7 +2,7 @@
 
 🎓 Estudiante de Ingeniería en Informática  
 🧠 Apasionado por el desarrollo web y el aprendizaje constante.  
-⚡ Actualmente aprendiendo **React**, **TypeScript** y **TailwindCSS**.  
+⚡ Actualmente aprendiendo **Angular**, **Postgres**, **TypeScript** y **TailwindCSS**.  
 
 ## 🚀 Tecnologías y herramientas que uso:
 

@@ -2,7 +2,7 @@
 
 🎓 Estudiante de Ingeniería en Informática  
 🧠 Apasionado por el desarrollo web y el aprendizaje constante.  
-⚡ Actualmente aprendiendo **Angular**, **Postgres**, **TypeScript** y **TailwindCSS**.  
+⚡ Actualmente aprendiendo **Java Quarkus**, **Postgres**, y **Arquitecctura Hexagonal**.  
 
 ## 🚀 Tecnologías y herramientas que uso:
 

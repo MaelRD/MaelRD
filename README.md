@@ -1,11 +1,22 @@
-# 👋 ¡Hola! Soy Mario Yael Gordillo Garicia
+<!-- BANNER -->
+<h1 align="center">👋 ¡Hola! Soy <span style="color:#00b4d8;">Mario Yael Gordillo García</span></h1>
+<h3 align="center">🚀 Full Stack Developer en Formación | 🎓 Estudiante de Ingeniería Informática en UPIICSA (IPN)</h3>
 
-### 🚀 Full Stack Developer en Formación | Estudiante de Ingeniería Informática en UPIICSA
+<p align="center">
+  <a href="https://linkedin.com/in/tu-perfil" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:tu-email@ejemplo.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" alt="Email"/>
+  </a>
+  <a href="https://github.com/tu-usuario" target="_blank">
+    <img src="https://img.shields.io/github/followers/tu-usuario?label=Follow&style=social" alt="GitHub"/>
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/tu-perfil)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:tu-email@ejemplo.com)
+---
 
-## 📚 Sobre Mí
+## 🧠 Sobre mí
 
 ```javascript
 const marioGordillo = {
@@ -14,21 +25,14 @@ const marioGordillo = {
   lenguajes: ["Python", "Java", "JavaScript"],
   tecnologías: {
     frontend: ["HTML5", "CSS3", "JavaScript", "React (en aprendizaje)"],
-    backend: ["Node.js", "Python", "Java"],
+    backend: ["Node.js", "Python", "Java", "Quarkus", "Spring Boot"],
     basesDeDatos: ["SQL", "MySQL", "PostgreSQL"],
-    herramientas: ["Git", "Docker", "Quarkus", "Spring Boot"]
+    herramientas: ["Git", "Docker", "Maven", "VSCode"]
   },
-  intereses: [
-    "Desarrollo Web Full Stack",
-    "APIs REST",
-    "Cloud Computing",
-    "Bases de Datos",
-    "DevOps"
-  ],
   actualmenteAprendiendo: [
     "React.js",
     "Node.js",
-    "Arquitectura de Software",
+    "Arquitectura Hexagonal",
     "Patrones de Diseño"
   ],
   buscando: "Oportunidades de práctica y proyectos colaborativos"

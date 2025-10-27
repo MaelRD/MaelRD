@@ -6,12 +6,7 @@
   <a href="https://www.linkedin.com/in/mario-yael-gordillo-garc%C3%ADa-85762a1a9/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Conéctate-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:mario.gordillo.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contacto-red?logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/marioyaelgordillogarcia" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Portafolio-black?logo=github" alt="GitHub"/>
-  </a>
+
 </p>
 
 ---
@@ -52,7 +47,7 @@ Actualmente enfocado en construir aplicaciones **sólidas, modulares y escalable
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quarkus/quarkus-original.svg" width="45" height="45" alt="Quarkus"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45" alt="Spring Boot"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/architecture/architecture-original.svg" width="45" height="45" alt="Arquitectura"/>
+
 </p>
 
 <p align="center">

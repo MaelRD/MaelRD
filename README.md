@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <h1 align="center">👋 ¡Hola! Soy <span style="color:#00b4d8;">Mario Yael Gordillo García</span></h1>
-<h3 align="center">🚀 Full Stack Developer en Formación | 🎓 Estudiante de Ingeniería Informática en UPIICSA (IPN)</h3>
+<h3 align="center">💻 Backend Developer en Formación | 🎓 Estudiante de Ingeniería Informática en UPIICSA (IPN)</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mario-yael-gordillo-garc%C3%ADa-85762a1a9/" target="_blank">
@@ -17,25 +17,23 @@
 ---
 
 ## 👨‍💻 Sobre Mí
-Soy **Mario Yael Gordillo García**, estudiante de **Ingeniería Informática en UPIICSA (IPN)** 🎓 y **Full Stack Developer en formación**.  
-Apasionado por el desarrollo de software, busco crear soluciones **eficientes, escalables y limpias** usando **Java, Quarkus y React**.  
-Me interesa el diseño de arquitecturas modernas, las buenas prácticas y la mejora continua 💡.
+Soy **Mario Yael Gordillo García**, estudiante de **Ingeniería Informática en UPIICSA (IPN)** 🎓 y desarrollador **Backend en formación**.  
+Actualmente enfocado en construir aplicaciones **sólidas, modulares y escalables** con **Java**, aplicando buenas prácticas y principios de **Arquitectura Hexagonal**.  
+
+💡 Me interesa comprender a fondo cómo funciona la lógica del servidor, los patrones de diseño y las arquitecturas limpias que hacen posible un backend eficiente y mantenible.
 
 ---
 
-## 💻 Lenguajes y Tecnologías
+## ⚙️ Stack Tecnológico
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quarkus/quarkus-original.svg" width="45" height="45" alt="Quarkus"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45" alt="Spring Boot"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="45" height="45" alt="Maven"/>
 </p>
 
 ---
@@ -51,16 +49,16 @@ Me interesa el diseño de arquitecturas modernas, las buenas prácticas y la mej
 
 ## 📚 Actualmente Aprendiendo
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45" alt="Figma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quarkus/quarkus-original.svg" width="45" height="45" alt="Quarkus"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45" alt="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/architecture/architecture-original.svg" width="45" height="45" alt="Arquitectura"/>
 </p>
 
 <p align="center">
-  🧩 <strong>Enfocado en:</strong> Arquitectura Hexagonal · Patrones de Diseño · Desarrollo Full Stack
+  🧩 <strong>Enfocado en:</strong> Backend con Java · Arquitectura Hexagonal · Spring Boot · Patrones de Diseño
 </p>
 
 ---
 
-<h3 align="center">✨ "Cada línea de código es una oportunidad para aprender algo nuevo." ✨</h3>
+<h3 align="center">✨ "Cada línea de código es una oportunidad para construir algo mejor." ✨</h3>

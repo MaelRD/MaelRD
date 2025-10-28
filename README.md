@@ -37,7 +37,6 @@ Actualmente enfocado en construir aplicaciones **sólidas, modulares y escalable
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="45" height="45" alt="macOS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="45" height="45" alt="Windows"/>
 </p>
 
 ---

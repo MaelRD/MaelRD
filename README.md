@@ -1,61 +1,91 @@
-<h1 align="center">👋 ¡Hola! Soy <span style="color:#00b4d8;">Mario Yael</span></h1>
-<h3 align="center">💻 Backend Developer | ⚙️ Especialista en Automatización de Negocios</h3>
+# 👋 Hola, soy Mario Yael Gordillo García  
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mario-yael-gordillo-garc%C3%ADa-85762a1a9/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Conéctate-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:tu-correo@ejemplo.com">
-    <img src="https://img.shields.io/badge/Email-Contáctame-red?logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+💻 **Desarrollador Fullstack | Backend & Automatización**  
 
 ---
 
-## 👨‍💻 Sobre Mí
-Soy estudiante de 7º semestre de **Ingeniería Informática en UPIICSA (IPN)** 🎓 y desarrollador Backend enfocado en construir software que aporta valor real. 
-
-Combino mi gusto por las arquitecturas limpias y los microservicios con la creación de soluciones prácticas para empresas. Ya sea diseñando el núcleo de una aplicación o conectando sistemas para ahorrar horas de trabajo manual, mi objetivo es la eficiencia.
-
-🎯 **Mis enfoques actuales:**
-* **Desarrollo Profesional:** Creación de APIs robustas, Arquitectura Hexagonal y Microservicios con **Java (Quarkus)** y **Python (FastAPI)**.
-* **Soluciones Freelance:** Automatización de flujos de trabajo e integraciones de ERPs (**Odoo**) con herramientas de productividad (**Notion**, WhatsApp).
+## 🚀 Sobre mí  
+Soy desarrollador enfocado en backend, automatización de procesos y desarrollo sobre Odoo. Me gusta construir soluciones eficientes, escalables y bien estructuradas, aplicando buenas prácticas de arquitectura.
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🛠️ Tech Stack  
 
-### 🌌 Cosmos (En desarrollo)
-Un sistema de gestión de proyectos y tickets de soporte técnico diseñado con una arquitectura de microservicios.
-* **Stack:** Backend en Java (Quarkus) y Python (FastAPI), Frontend con Astro/React, Base de datos PostgreSQL.
-* **Impacto:** Escalabilidad asegurada mediante la separación de dominios y comunicación eficiente entre servicios.
+### 🔹 Lenguajes  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-### ⚙️ Automatización e Integraciones (Freelance)
-Desarrollo de scripts y webhooks para sincronizar datos comerciales.
-* **Stack:** Python, Odoo API, Notion API.
-* **Impacto:** Reducción de carga operativa al automatizar la gestión de inventarios y creación de dashboards de métricas en Notion.
+### 🔹 Backend  
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+![REST API](https://img.shields.io/badge/API-REST-005571?style=for-the-badge)
 
----
+### 🔹 Frontend  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## 🛠️ Stack Tecnológico
+### 🔹 Base de Datos  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Backend & Base de Datos
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quarkus/quarkus-original.svg" width="40" height="40" alt="Quarkus"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
-</p>
-
-### Frontend & Herramientas
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-</p>
+### 🔹 Herramientas  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
-<h3 align="center">✨ "Transformando lógica compleja en soluciones simples y escalables." ✨</h3>
+## 🧠 Arquitectura y Buenas Prácticas  
+- Arquitectura Hexagonal  
+- Principios SOLID  
+- MVC  
+- Diseño de APIs RESTful  
+- Autenticación con JWT  
+- Integración de sistemas  
+
+---
+
+## 📊 GitHub Stats  
+
+![Mario's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaelRD&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaelRD&layout=compact&theme=tokyonight)
+
+---
+
+## 🧩 Proyectos Destacados  
+
+### 🔹 CosmOS (Odoo)  
+Sistema de gestión de tickets con monitoreo de KPIs y automatización de flujos.  
+- Automatización de procesos internos  
+- Mejora en gestión de incidencias  
+
+---
+
+### 🔹 LayoutBuilder  
+Automatización de carga masiva de datos en Odoo.  
+- Validación de datos  
+- Reducción de errores manuales  
+
+---
+
+### 🔹 Pipelines de Validación (Discord)  
+Automatización para validación de tickets.  
+- Integración de servicios  
+- Verificación de integridad de datos  
+
+---
+
+## 📈 Actualmente  
+- Mejorando en arquitectura de software  
+- Construyendo soluciones más escalables  
+- Profundizando en backend y automatización  
+
+---
+
+## 📫 Contacto  
+📧 marioyaelgg@gmail.com  
+
+---
+
+## ⚡ Frase  
+_"Construyendo soluciones eficientes a través de código limpio y automatización."_  
